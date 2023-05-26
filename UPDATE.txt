@@ -1,0 +1,9 @@
+================================ Info ==================================
+Hello the latest update of my rat software
+
+added : New icon
+added : Coding Protect by Obfuscated
+added : fix 1.2 Rat Inject
+
+edited : 03/07/21 00h25
+================================ End ==================================
